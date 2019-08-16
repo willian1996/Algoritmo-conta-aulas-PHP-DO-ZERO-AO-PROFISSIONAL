@@ -1,3 +1,5 @@
+//COPIE O CODIGO ABAIXO E COLE NO CONSOLE DO NAVEGADOR NA PAGINA DOS MODULOS DO CURSO
+
 //pegar duração das aulas que estão na tag <span>
 var getAulas = document.getElementsByTagName('span');
 //filtrar somante a duração nas tag <span> e colocar em um array
